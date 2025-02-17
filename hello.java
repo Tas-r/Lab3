@@ -1,7 +1,7 @@
 public class hello {
     public static void main( String args[] )
     {
-        System.out.println( "Hi Tas!! We're cookin!!!! Wow!!" );
+        System.out.println( "Hello CSCI 4485" );
     }
 }
 
